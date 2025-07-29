@@ -15,9 +15,9 @@ The output is stored in a folder called scraped_texts.
 
 Collect your scribd URLs in a urls.txt file listed line by line. 
 For example:
-https://www.scribd.com/document/129801635/Jay-Z-Credit-Report
-https://www.scribd.com/document/487124632/Equifax-Credit-Report-Format-pdf
-https://www.scribd.com/document/598271810/CreditReport
+https://www.scribd.com/document/129813635/Jay-Credit-Report
+https://www.scribd.com/document/487124632/CreditReporte
+https://www.scribd.com/document/598221810/CreditReporte
 
 
 Requirements
